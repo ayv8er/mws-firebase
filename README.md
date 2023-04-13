@@ -1,6 +1,6 @@
 # ReactJS Demo - Magic Wallet Services + Firebase Auth
 
-Deployed URL: [https://mws-firebase-demo.vercel.app/](https://mws-firebase-demo.vercel.app/)
+Deployed URL: [https://mws-firebase-demo.vercel.app/](https://mws-firebase.vercel.app/)
 
 ReactJS, Magic Web SDK and Firebase Auth
 Use Firebase Auth for user authentication, and Magic for wallet creation and key management.
