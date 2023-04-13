@@ -90,7 +90,7 @@ Hold Magic client SDK instance and Firebase Auth instance into context
 
 In the Magic `loginWithOIDC` method (in `getMagic` function), pass values into...
 ```
-const did = await magic.openid.loginWithOIDC({
+const did = await magicClient.openid.loginWithOIDC({
     jwt: <Auth0_User_ID_Token>,
     providerId: <Magic_Provider_ID>
 })
